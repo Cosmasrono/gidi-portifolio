@@ -1,0 +1,4 @@
+Generator: built-in image_gen tool.
+Website asset: tech-background.webp (optimized from generated PNG).
+
+Use case: stylized-concept. Asset type: wide landing-page background image for a software developer portfolio. Create a sophisticated cinematic macro view of a dark graphite circuit board with fine luminous emerald-green and cyan circuit traces, microchips and subtle data connection lights, shallow depth of field. Wide landscape composition, approximately 16:9. Keep the left half very dark with sparse detail to support white headline text; most recognizable circuit detail toward the right and lower edges, soft atmospheric glow, tasteful realistic materials. Palette navy black #0d1117, emerald, cyan. No text, no logos, no watermark, no UI, no people. This is a background asset, not a screenshot of a website.
